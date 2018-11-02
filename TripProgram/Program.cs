@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace trip_program
+namespace TripProgram
 {
     public class Program
     {

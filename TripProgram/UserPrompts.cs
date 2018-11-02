@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace trip_program
+namespace TripProgram
 {
     internal static class UserPrompts
     {

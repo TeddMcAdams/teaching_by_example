@@ -1,6 +1,6 @@
 using System;
 
-namespace trip_program
+namespace TripProgram
 {
     public class MyCustomType_Trip
     {

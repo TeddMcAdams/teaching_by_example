@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace input_10_values
+namespace InputTenValues
 {
     class Program
     {
