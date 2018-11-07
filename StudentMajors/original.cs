@@ -17,16 +17,22 @@ namespace ConsoleApp3
             // Do logic to compare two 'info' objects
             // one object is provided via the method's parameter
             // the other object is this actual object
+            
+            // How can we determine if two objects are 'equal' ?
         }
 
         public bool equalsName(string firstName, string lastName)
         {
             // Do logic to compare the first & last name provided to that of this object
+            
+            // How can we determine if two provided names are equal ?
         }
 
         public bool equalsID(long id)
         {
             // Do logic to compare the id provided to that of this object
+            
+            // How can we determine if two provided id's are equal ? 
         }
 
         public string getFirst()
