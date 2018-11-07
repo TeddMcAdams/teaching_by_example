@@ -14,19 +14,19 @@ namespace ConsoleApp3
         
         public bool equals(info otherObject)
         {
-        	// Do logic to compare two 'info' objects
-        	// one object is provided via the method's parameter
-        	// the other object is this actual object
+            // Do logic to compare two 'info' objects
+            // one object is provided via the method's parameter
+            // the other object is this actual object
         }
 
         public bool equalsName(string firstName, string lastName)
         {
-        	// Do logic to compare the first & last name provided to that of this object
+            // Do logic to compare the first & last name provided to that of this object
         }
 
         public bool equalsID(long id)
         {
-        	// Do logic to compare the id provided to that of this object
+            // Do logic to compare the id provided to that of this object
         }
 
         public string getFirst()
@@ -56,8 +56,8 @@ namespace ConsoleApp3
 
         public void setID(long i)
         {
-        	// do logic here to restrict the numbers you are allowing per the requirement
-        	// requirement: Finally, ensure that only numbers between 1000000 and 9999999 (inclusive) 
+            // do logic here to restrict the numbers you are allowing per the requirement
+            // requirement: Finally, ensure that only numbers between 1000000 and 9999999 (inclusive) 
             id = i;
         }
 
